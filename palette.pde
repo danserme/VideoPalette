@@ -1,6 +1,6 @@
 PImage foto[];
 Table table;
-int num = 40;
+int num = 42;
 
 void settings() {
 
